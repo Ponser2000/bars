@@ -1,0 +1,9 @@
+log
+*.patch
+.idea/*
+build/*
+*.iml
+out/*
+.gradle/*
+target/*
+

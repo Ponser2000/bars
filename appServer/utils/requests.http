@@ -1,0 +1,13 @@
+### Main Controller ###
+
+### Get all contracts ###
+GET http://localhost:8080/appserver/all/
+Content-Type: text/html
+###
+
+
+### Get all contracts ###
+GET http://192.168.75.240:8080/appserver/all
+Content-Type: text/html
+###
+
